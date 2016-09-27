@@ -1,0 +1,22 @@
+h1 {
+	font-style: italic;
+	text-align: center;
+	font-size: 40px;
+}
+
+
+.edu {
+	text-decoration: underline;
+}
+.b1 {
+	border-top: 1px solid black;
+
+}
+.b2{
+	border-top: 1px dashed black;
+}
+
+.exp {
+	padding-left: 10px;
+	font-style: italic;
+}
